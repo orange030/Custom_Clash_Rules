@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,openrouter.ai
 DOMAIN,gemini.google.com
 DOMAIN,gemini.google
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,us-west-2.elb.amazonaws.com

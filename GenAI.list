@@ -1,15 +1,9 @@
-DOMAIN-SUFFIX,sora.com
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN,gemini.google.com
 DOMAIN,gemini.google
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,us-west-2.elb.amazonaws.com
-DOMAIN-SUFFIX,githubcopilot.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,api3.siftscience.com
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-KEYWORD,antigravity

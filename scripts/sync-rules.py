@@ -33,6 +33,7 @@ SOURCES = [
     ("OpenAI.list", "ChatGPT", "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.list"),
     ("Claude.list", "Claude", None),
     ("Copilot.list", "Copilot", None),
+    ("AI.list", "AI 平台", None),
     ("AI.list", "AI 平台", "https://github.com/DustinWin/domain-list-custom/releases/download/domains/ai.list"),
     ("GitHub.list", "GitHub", "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GitHub/GitHub.list"),
     ("Apple.list", "苹果服务", "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Apple/Apple.list"),

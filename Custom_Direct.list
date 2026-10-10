@@ -3,3 +3,5 @@
 
 # Academic
 DOMAIN,pubs.acs.org
+# seraphli.eu.cc self-hosted services (DNS only, direct)
+DOMAIN-SUFFIX,seraphli.eu.cc

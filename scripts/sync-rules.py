@@ -48,6 +48,7 @@ SOURCES = [
     ("Spotify.list", "Spotify", "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Spotify/Spotify.list"),
     ("Bahamut.list", "Bahamut", "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Bahamut/Bahamut.list"),
     ("NetEaseMusic.list", "网易音乐", "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/NetEaseMusic/NetEaseMusic.list"),
+    ("Booking.list", "Booking", None),
     ("ChinaMedia.list", "国内媒体", "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMedia/ChinaMedia.list"),
     ("Media.list", "国外媒体", "https://github.com/DustinWin/domain-list-custom/releases/download/domains/media.list"),
     ("MediaIP.list", "国外媒体", "https://github.com/DustinWin/geoip/releases/download/ips/mediaip.list"),

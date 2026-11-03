@@ -1,0 +1,3 @@
+# 手写：🏨 Booking（Booking.com 主站和静态资源 cf.bstatic.com，按地区比价时单独切线路）
+DOMAIN-SUFFIX,booking.com
+DOMAIN-SUFFIX,bstatic.com

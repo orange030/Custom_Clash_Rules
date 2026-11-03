@@ -9,7 +9,7 @@
 | `Clash.ini` | subconverter 模板（基础版，71 个策略组） |
 | `Clash_Adv.ini` | subconverter 模板（进阶版，含中转/智能组，84 组，**实际生成用的是它**） |
 | `rules/` | 本地化规则集：30 个远程源（ACL4SSR / blackmatrix7 / DustinWin / Aethersailor）拉取后按链序去重生成 |
-| `Academic.list` 等（根目录） | 手写小名单，各走专组（海外加速 / 谷歌学术 / Unity / GenAI / Claude / Copilot / 直连） |
+| `Academic.list` 等（根目录） | 手写小名单，各走专组（海外加速 / 谷歌学术 / Unity / GenAI / Claude / Copilot / Booking / 直连） |
 | `CN_Supplement.list` | 国行域名直连补充表（cn.list 中经国内 DNS 解析为非 CN IP 的域名，强制直连） |
 | `scripts/sync-rules.py` | 远程规则源同步 + 去重脚本 |
 
